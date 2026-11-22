@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6a9679752c11077d18187086",
+    "listing": "6a9679752c11077d1818707a",
+    "user": "6a9679752c11077d18187078",
+    "userName": "Aarav Sharma",
+    "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "comment": "Visiting the sacred Bodhi Tree at sunrise was one of the most spiritual experiences of my life. Guide Tenzin provided deep historical context. Highly recommended!",
+    "visitDate": "January 2026",
+    "__v": 0,
+    "createdAt": "2026-09-01T07:06:29.647Z",
+    "updatedAt": "2026-09-01T07:06:29.647Z"
+  },
+  {
+    "_id": "6a9679752c11077d18187087",
+    "listing": "6a9679752c11077d1818707a",
+    "user": "6a9679752c11077d18187079",
+    "userName": "Sarah Jenkins",
+    "userAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "comment": "Mesmerizing architecture, peaceful gardens, and the evening meditation chant filled me with serenity. Essential visit for everyone.",
+    "visitDate": "February 2026",
+    "__v": 0,
+    "createdAt": "2026-09-01T07:06:29.647Z",
+    "updatedAt": "2026-09-01T07:06:29.647Z"
+  },
+  {
+    "_id": "6a9679752c11077d18187088",
+    "listing": "6a9679752c11077d1818707b",
+    "user": "6a9679752c11077d18187078",
+    "userName": "Aarav Sharma",
+    "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "comment": "The sheer scale of Nalanda University ruins is astonishing. To imagine 10,000 students studying here 1,500 years ago is humbling. Rameshwar ji explained every monastery courtyard vividly.",
+    "visitDate": "December 2025",
+    "__v": 0,
+    "createdAt": "2026-09-01T07:06:29.647Z",
+    "updatedAt": "2026-09-01T07:06:29.647Z"
+  },
+  {
+    "_id": "6a9679752c11077d18187089",
+    "listing": "6a9679752c11077d1818707c",
+    "user": "6a9679752c11077d18187078",
+    "userName": "Aarav Sharma",
+    "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "comment": "The Glass Bridge and nature safari in Rajgir was thrilling! The view over the lush hills is incredible, and the ropeway ride to Vishwa Shanti Stupa is unmissable.",
+    "visitDate": "January 2026",
+    "__v": 0,
+    "createdAt": "2026-09-01T07:06:29.647Z",
+    "updatedAt": "2026-09-01T07:06:29.647Z"
+  },
+  {
+    "_id": "6a9679752c11077d1818708a",
+    "listing": "6a9679752c11077d18187081",
+    "user": "6a9679752c11077d18187079",
+    "userName": "Sarah Jenkins",
+    "userAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "comment": "Meeting the traditional Mithila painting artists in Jitwarpur village was the highlight of our Bihar tour. Priya guided us patiently through the natural colors and stories.",
+    "visitDate": "January 2026",
+    "__v": 0,
+    "createdAt": "2026-09-01T07:06:29.647Z",
+    "updatedAt": "2026-09-01T07:06:29.647Z"
+  }
+]
